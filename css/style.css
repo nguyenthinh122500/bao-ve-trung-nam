@@ -3520,7 +3520,7 @@ button.mfp-arrow {
     overflow: hidden;
 }
 .testimonials .item .info .cont {
-    margin-left: 85px;
+    /* margin-left: 85px; */
 }
 .testimonials .item .info h6 {
     font-size: 15px;
