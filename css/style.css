@@ -870,6 +870,12 @@ color: #aa8453;
     color: yellow !important;
 }
 
+@media screen and (max-width:900px) {
+    .navbar .navbar-nav .active {
+        color: #aa8453 !important;
+    }
+}
+
 
 .nav-scroll {
     background: #fff;
