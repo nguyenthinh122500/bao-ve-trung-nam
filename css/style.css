@@ -870,7 +870,7 @@ color: #aa8453;
     color: yellow !important;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:950px) {
     .navbar .navbar-nav .active {
         color: #aa8453 !important;
     }
