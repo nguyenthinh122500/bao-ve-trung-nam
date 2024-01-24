@@ -5413,7 +5413,7 @@ select {
         overflow: auto;
         background: #fff;
         text-align: left;
-        padding: 15px 30px 30px 15px
+        padding: 15px 30px 7px 15px
     }
     .navbar .nav-link {
         margin: 0px auto !important;
