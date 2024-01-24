@@ -867,7 +867,7 @@ color: #aa8453;
     color: #aa8453;
 }
 .navbar .navbar-nav .active {
-    color: #aa8453 !important;
+    color: yellow !important;
 }
 
 
@@ -1392,7 +1392,7 @@ hr {
 .header div.reservation .call span {
        font-family: 'Gilda Display', serif;
     font-size: 24px;
-    color: #aa8453;
+    color: yellow;
     letter-spacing: 1px;
 } 
 
@@ -5721,3 +5721,14 @@ select {
         -webkit-transform: rotate(0) scale(1) skew(1deg);
     }
   }
+
+
+  .p-footer {
+    padding-top: 135px;
+}
+
+@media screen and (max-width: 500px) {
+    .p-footer {
+        padding-top: 10px !important;
+    }
+}
