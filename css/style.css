@@ -2934,6 +2934,7 @@ hr.border-2 {
 }
 */
 .facilties .single-facility span {
+    width: 60%;
   font-size: 45px;
   color: #aa8453;
   line-height: 1;
